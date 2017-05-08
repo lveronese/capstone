@@ -4,10 +4,21 @@
 
 **Note**
 
-The Capstone is a two-staged project. The first is the proposal component, where you can receive valuable feedback about your project idea, design, and proposed solution. This must be completed prior to your implementation and submitting for the capstone project. 
+Welcome to my Capstone Project.
+In order to correctly review the material, this README provides a few instructions about the documentation and code.
 
-You can find the [capstone proposal rubric here](https://review.udacity.com/#!/rubrics/410/view), and the [capstone project rubric here](https://review.udacity.com/#!/rubrics/108/view). Please ensure that you are following directions correctly when submitting these two stages which encapsulate your capstone.
+The proposal I submitted is available in the proposal.pdf file.
+I have provided both reviews I had, named: Proposal Udacity Review First.pdf and Proposal Udacity Review Final.pdf.
+The url for the last proposal is https://review.udacity.com/#!/reviews/398679
 
-You will find an `open_projects` folder in these files. This will be where pre-curated capstone projects are available, should you choose to work on a project already partially designed for you. 
+The capstone project report is available as capstone_report.pdf. The report does NOT contain any code and has been written to provide a complete guide to the steps I followed in order to complete my project. The report follows the suggested capstone project structure as of the provided template.
+Companion of the report is a jupyter notebook capstone_report.ipynb that contains all python code inside a version of the content in the report in order to be able to understand the context the code has been written in. The jupyter notebook is sufficient to have access to all results. So just run all the cells and the data will be loaded (from the data directory) and all code executed. The jupyter notebook is also available in exported html format for reader convenience.
 
-Please email [machine-support@udacity.com](mailto:machine-support@udacity.com) if you have any questions.
+I used only standard libraries (I used the Anaconda installation with python 2.7), in particular: numpy, pandas, matplotlib, scipy.stats (for norm).
+
+The reference folder contains additional papers I read in order to document myself about possibile solutions. They are referenced inside the report.
+
+The data folder contains both JSON and CSV versions of the data samples I used for the report.
+
+I proofreaded only the capstone PDF report. Please forgive me for any typos you may encounter in the ipython notebook.
+
